@@ -138,9 +138,10 @@ public class MemberController {
         System.out.println("finalDayReal2");
     }
     public void finalDayLocal2(){
-        System.out.println("finalDayLocal2");
+        System.out.println("요걸 수정해보자");
 
     }
+
 
 
 
